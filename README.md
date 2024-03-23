@@ -1,7 +1,7 @@
 # Assessment-1-AutomationTest
 
 ## Overview
-This project demonstrates automated testing of the SauceDemo website using Selenium WebDriver with Java. It covers scenarios such as successful login, adding a product to the cart, and performing checkout.
+This project demonstrates automated BDD E-commerce website testing using Selenium WebDriver with Java. It covers scenarios such as successful login, adding a product to the cart, and performing checkout.
 
 ## Prerequisites
 - Java JDK 17 or higher
@@ -29,6 +29,9 @@ This project demonstrates automated testing of the SauceDemo website using Selen
 4. Open the project in your preferred IDE.
 5. Install the required dependencies using Maven by running:
 
+![image](https://github.com/Shivapriya1726/Assessment-1-AutomationTest/assets/90460346/efb808b1-ccc9-4f27-aa45-2cb553cf7233)
+
+
 ## Running the Tests
 1. Open the project in your IDE.
 2. Configure the project to use the correct ChromeDriver executable location.
@@ -42,4 +45,5 @@ This project demonstrates automated testing of the SauceDemo website using Selen
 ## Test Execution Results
 After running the tests, you should see the test execution results displayed in the console. Any failures or errors encountered during the test execution will be reported with relevant details.
 
+![image](https://github.com/Shivapriya1726/Assessment-1-AutomationTest/assets/90460346/7d5207de-1dad-4f92-82b9-69a3ea1666b9)
 
